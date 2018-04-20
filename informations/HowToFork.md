@@ -46,9 +46,6 @@ https://github.com/[kullaniciAdi]/[projeAdi]
 
 Ardından aşağıdaki adımları uygulayın
 
-![1](pics/HowToFork/1.png)  
-![2](pics/HowToFork/2.png)  
-![3](pics/HowToFork/3.png)  
 ![4](pics/HowToFork/4.png)  
 ![5](pics/HowToFork/5.png) 
 ![6](pics/HowToFork/6.png)  
