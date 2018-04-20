@@ -6,7 +6,7 @@
 
 #### Projenin Clone'lanması ve Branch'e Geçiş
 
-*Eğer organizasyona üye iseniz* adınıza açılmış "branch" üzerinde işlerimi yaptıktan sonra "master" branch'ine pull requst atmanız gerekmekte. Bunun için aşağıdaki adımları sırayla takip edin.
+Projecyi clone'lama ve adınıza açılmış **branch**e geçiş yapmak için aşağıdaki adımları uygulayın.
 
 Öncelikle repo'u clone'layın
 ```
