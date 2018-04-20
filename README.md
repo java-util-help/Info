@@ -5,5 +5,5 @@
 [Üye Olmayanlar](informations/HowToFork.md)  
 
 ### Sorularımı Nasıl Sorarım?  
-[Q&A](https://github.com/java-util-help/Info/blob/master/Informations/Questions.md)
+[Q&A](https://github.com/java-util-help/Info/blob/master/Informations/Questions.md)  
 **NOT:** Bu özellik sadece üyeler içindir.
