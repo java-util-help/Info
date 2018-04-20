@@ -13,7 +13,7 @@ Açılan ekrandan giriş yaptıktan sonra aşağıdaki adımları uyguluyoruz.
 * **Url'a** tıklayıp url kısmına kopyaladığımız Url'u yapıştırıyoruz.
 * Yapıştırdıktan sonra  clone diyoruz ve clone işleminin bitmesini bekliyoruz.
 * İşlem bittikten sonra **fetch origin'e** tıklayıp yüklenmesini bekliyoruz.
-* Yükleme işlemi bittikten sonra tekrar aynı yere yıklayıp** pull** işlemini gerçekleştiriyoruz.
+* Yükleme işlemi bittikten sonra tekrar aynı yere yıklayıp **pull** işlemini gerçekleştiriyoruz.
 
 ![4](pics/HowToDesktop/4.png)
 * Pull işlemi bittikten sonra **Current brach'a** tıklıyıp kendi ismimiz olan brach'ı seçiyoruz.
