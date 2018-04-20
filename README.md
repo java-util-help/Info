@@ -1,5 +1,4 @@
 # java.util.help
----
 
 ### Projelerimi Nasıl Yollarım?  
 [Üyeler](informations/HowTo.md)  
