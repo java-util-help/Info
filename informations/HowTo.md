@@ -2,7 +2,7 @@
 
 - Projelerinizi göndermek istiyorsanız **Pull Request** yollayabilirsiniz. Bunun için aşağıdaki adımları uygulayın.
 
-**NOT:** Anlatım organizasyon üyelerine göre hazırlanmıştır. Ama organizasyona üye değilseniz bile fork'lanmış bir repo üzerinden pull request atabilirsiniz. Fork'lama işleminin ve Pull Request işleminin nasıl olacağını görmek için bu anlatıma bakabilirsiniz. -> [Fork ve Pull Request](https://github.com/java-util-help/info/HowToFork.md)
+**NOT:** Anlatım organizasyon üyelerine göre hazırlanmıştır. Ama organizasyona üye değilseniz bile fork'lanmış bir repo üzerinden pull request atabilirsiniz. Fork'lama işleminin ve Pull Request işleminin nasıl olacağını görmek için bu anlatıma bakabilirsiniz. -> [Fork ve Pull Request](https://github.com/java-util-help/info/blob/master/informations/HowToFork.md)
 
 #### Projenin Clone'lanması ve Branch'e Geçiş
 
