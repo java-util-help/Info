@@ -2,11 +2,11 @@
 
 - Projelerinizi göndermek istiyorsanız **Pull Request** yollayabilirsiniz. Bunun için aşağıdaki adımları uygulayın.
 
-**NOT:** Anlatım organizasyon üyelerine göre hazırlanmıştır. Ama organizasyona üye değilseniz bile fork'lanmış bir repo üzerinden pull request atabilirsiniz. Fork'lama işleminin ve Pull Request işleminin nasıl olacağını görmek için bu anlatıma bakabilirsiniz. -> [Fork ve Pull Request](https://github.com/java-util-help/projects)
+**NOT:** Anlatım organizasyon üyelerine göre hazırlanmıştır. Ama organizasyona üye değilseniz bile fork'lanmış bir repo üzerinden pull request atabilirsiniz. Fork'lama işleminin ve Pull Request işleminin nasıl olacağını görmek için bu anlatıma bakabilirsiniz. -> [Fork ve Pull Request](https://github.com/java-util-help/info/HowToFork.md)
 
 #### Projenin Clone'lanması ve Branch'e Geçiş
 
-Projecyi clone'lama ve adınıza açılmış **branch**e geçiş yapmak için aşağıdaki adımları uygulayın.
+Projeyi clone'lama ve adınıza açılmış **branch**e geçiş yapmak için aşağıdaki adımları uygulayın.
 
 Öncelikle repo'u clone'layın
 ```
@@ -15,7 +15,7 @@ Projecyi clone'lama ve adınıza açılmış **branch**e geçiş yapmak için a�
 
 Ardından clone'ladığınız repo'nun dizinine girin
 ```
-	cd [projeAdi]
+	cd [projeAdi] && ls
 ```  
 
 Kendi adınıza açılmış olan branch'e aşağıdaki komut ile geçiş yapın
@@ -62,8 +62,8 @@ https://github.com/java-util-help/[projeAdi]/tree/[branchAdi]
 
 ve aşadağıdaki işlemleri uygulayın
 
-![1](pics/1.png)  
-![2](pics/2.png)  
+![1](pics/HowTo/1.png)  
+![2](pics/HowTo/2.png)  
 
-Yukardaki iki işlemi uyguladıktan sonra aşağıdaki sonucu elde edeceksiniz. Bundan sonra yolladığınız pull request inceleyip onaylanacaktır.  
-![3](pics/3.png)
+Yukardaki iki işlemi uyguladıktan sonra aşağıdaki sonucu elde edeceksiniz. Bundan sonra yolladığınız pull request incelenip onaylanacaktır.  
+![3](pics/HowTo/3.png)
