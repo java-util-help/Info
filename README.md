@@ -1,9 +1,10 @@
 # java.util.help
 
 ### Projelerimi Nasıl Yollarım?  
-[Üyeler](informations/HowTo.md)  
-[Üye Olmayanlar](informations/HowToFork.md)  
+* [Üyeler](informations/HowTo.md)  
+* [Üyeler(Github Desktop)](informations/HowToDesktop.md)
+* [Üye Olmayanlar](informations/HowToFork.md)  
 
 ### Sorularımı Nasıl Sorarım?  
-[Q&A](https://github.com/orgs/java-util-help/teams/q-a)  
+* [Q&A](https://github.com/orgs/java-util-help/teams/q-a)  
 **NOT:** Bu özellik sadece üyeler içindir.
