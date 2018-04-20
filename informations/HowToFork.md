@@ -24,7 +24,7 @@ Ardından clone'ladığınız repo'nun dizinine girin
 
 *Bu adımdan sonra projenin bulunduğu dizin altında, projenizi atmak gibi değişiklerde bulunabilirsiniz.* 
 
-Eklediğini dosyaları göndermek için aşağıdaki işlemi uygulayın.
+Eklenen dosyaları göndermek için aşağıdaki işlemi uygulayın.
 ```
 	git add [dosyaAdi] (tüm değişiklikleri eklemek istiyorsanuz "." diyebilirsiniz)
 ```
